@@ -21,7 +21,7 @@ The script calculates a score based on these criteria and categorizes the passwo
 
 To use the password strength checker, follow these steps:
 
-1. Clone the repository or download the `password_analyser.py` script.
+1. Clone the repository or download the `password_analyser.pyw` script.
 2. Run the script by executing the following command in your terminal:
 
 ```bash
