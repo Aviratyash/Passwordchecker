@@ -26,3 +26,6 @@ To use the password strength checker, follow these steps:
 
 ```bash
 python password_analyser.pyw
+```
+OR
+1. Download the executable(.exe) version of the script(password_analyser.exe).
